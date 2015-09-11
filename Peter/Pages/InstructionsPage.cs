@@ -61,6 +61,7 @@ namespace Peter
 			"Chug a beer",
 			"Do a power hour",
 			"Shotgun a beer",
+			"Finish Andrew's drink"
 		};
 
 		private readonly Random r = new Random ();
